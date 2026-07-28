@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gustavo+Palacios;Full-Stack+Developer;Backend+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gustavo+Palacios;Senior+Backend+Engineer;AWS+Certified+Developer;Serverless+%26+Cloud+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,10 +11,22 @@
 <a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
 </a>
-<a href="mailto:gustavo.palacios.dev@outlook.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 5px;"/>
+<a href="mailto:gustavoalonso1997@hotmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 5px;"/>
+</a>
+<a href="https://gustavopalacios.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%2317a267.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin: 5px;"/>
 </a>
 
+</div>
+
+<div align="center">
+  <a href="https://www.credly.com/badges/0d3a94c2-dec3-44b8-b633-251657307ae4" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-F9A825?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DVA" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.credly.com/badges/cb024357-8447-4319-97c7-55ed0d0b057e" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CCP" style="margin: 5px;"/>
+  </a>
 </div>
 
 ---
@@ -23,20 +35,19 @@
 
 <img align="right" alt="About Me" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<h3>🎯 Full-Stack Developer | Backend Specialist</h3>
+<h3>🎯 Senior Backend Engineer | Cloud Specialist</h3>
 
 <p>
-Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-performance</b> applications. I thrive on transforming complex problems into elegant solutions through clean code and modern architecture patterns.
+Passionate about building <b>scalable</b>, <b>highly available</b>, and <b>event-driven</b> architectures. I thrive on transforming complex business challenges into resilient backend systems leveraging AWS, Infrastructure as Code (IaC), and Serverless technologies to ensure platforms scale without breaking.
 </p>
 
 ### 💡 What I Bring to the Table
 
-- 🏗️ **Scalable Architecture**: Designing and implementing robust backend systems that grow with your business
-- 🎯 **Best Practices Advocate**: Writing clean, maintainable code following SOLID principles and industry standards
-- ⚡ **Performance Focused**: Optimizing applications for speed, efficiency, and reliability
-- 🔄 **Full-Stack Capabilities**: Seamless integration between frontend and backend technologies
-- ☁️ **Cloud-Native**: Experienced in deploying and managing applications on AWS, Azure & GCP
-- 🤝 **Collaborative Developer**: Strong team player with excellent problem-solving skills
+- ☁️ **Cloud-Native & Serverless**: Designing robust infrastructure on AWS (Lambda, ECS, DynamoDB, API Gateway) optimized for speed and cost.
+- 🏗️ **Scalable Architecture**: Expertise in Event-Driven Architecture (EventBridge, SQS, SNS) and Microservices.
+- 🎯 **Best Practices Advocate**: Writing clean, maintainable code following SOLID, Clean Architecture, and Hexagonal principles.
+- ⚡ **Performance Focused**: Optimizing databases (GSI, TTL), caching strategies (Redis), and reducing latency in critical flows.
+- 🛠️ **Infrastructure as Code (IaC)**: Automating reproducible and auditable deployments using AWS CDK and Terraform.
 
 <br clear="right"/>
 
@@ -54,39 +65,32 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,typescript,spring,laravel" title="Node.js | NestJS | Express | TypeScript | Spring | Laravel" alt="Backend Stack"/>
+            <img height="40" src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,python,php" title="Node.js | TypeScript | NestJS | Express | Python | PHP" alt="Backend Stack"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database & Caching</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,sass" title="React | Next.js | HTML5 | CSS3 | Tailwind | SASS" alt="Frontend Stack"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & Serverless</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel" title="AWS | Azure | GCP | Vercel" alt="Cloud Platforms"/>
-            <img height="40" src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4" title="Serverless Framework" alt="Serverless Framework" width="40"/>
-            <img height="40" src="https://railway.app/brand/logo-light.png" title="Railway" alt="Railway" width="40" style="background: #0B0D0E; padding: 5px; border-radius: 5px;"/>
+            <img height="40" src="https://skillicons.dev/icons?i=dynamodb,postgresql,mysql,mongodb,redis" title="DynamoDB | PostgreSQL | MySQL | MongoDB | Redis" alt="Database Stack"/>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & CI/CD</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,linux" title="Docker | Kubernetes | Jenkins | GitHub Actions | Nginx | Linux" alt="DevOps Stack"/>
+            <img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,linux" title="Docker | Kubernetes | Jenkins | GitHub Actions | Terraform | Linux" alt="DevOps Stack"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database & ORM</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & Serverless</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,dynamodb,prisma,sequelize" title="MySQL | PostgreSQL | MongoDB | Redis | DynamoDB | Prisma | Sequelize" alt="Database Stack"/>
+            <img height="40" src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/>
+            <img height="40" src="https://avatars.githubusercontent.com/u/13742415?s=200&v=4" title="Serverless Framework" alt="Serverless Framework" width="40"/>
         </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Message Brokers & EDA</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" title="Git | GitHub | GitLab | Bitbucket" alt="Development Tools"/>
+            <img height="40" src="https://skillicons.dev/icons?i=rabbitmq,kafka" title="RabbitMQ | Kafka" alt="Brokers"/>
         </td>
     </tr>
 </table>
@@ -100,22 +104,22 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="80"/>
 <h4>🏗️ Architecture</h4>
-<p><small><b>• Microservices<br/>• Serverless<br/>• Domain-Driven Design<br/>• Modular & Scalable</b></small></p>
+<p><small><b>• Event-Driven Design<br/>• Microservices<br/>• Serverless Computing<br/>• Clean/Hexagonal</b></small></p>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="80"/>
 <h4>📝 Code Quality</h4>
-<p><small><b>• SOLID Principles<br/>• DRY & KISS<br/>• Unit & Integration Tests<br/>• OpenAPI Documentation</b></small></p>
+<p><small><b>• SOLID Principles<br/>• TDD / BDD<br/>• CI/CD Automation<br/>• IaC (CDK/Terraform)</b></small></p>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" height="80"/>
 <h4>⚡ Performance</h4>
-<p><small><b>• Query Optimization<br/>• Redis Caching<br/>• Load Balancing<br/>• Horizontal Scaling</b></small></p>
+<p><small><b>• Zero Downtime<br/>• Redis Caching<br/>• DynamoDB GSI tuning<br/>• Async Processing</b></small></p>
 </td>
 <td width="25%" align="center">
 <img src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif" height="80"/>
 <h4>🔒 Security</h4>
-<p><small><b>• JWT & OAuth 2.0<br/>• RBAC & ABAC<br/>• OWASP Best Practices<br/>• Data Encryption</b></small></p>
+<p><small><b>• M2M Credential Rotation<br/>• Cognito/API Gateway<br/>• IAM Least Privilege<br/>• Zero Trust Comm</b></small></p>
 </td>
 </tr>
 </table>
@@ -125,49 +129,44 @@ Passionate about building <b>scalable</b>, <b>maintainable</b>, and <b>high-perf
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gpalaciosvx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpalaciosvx3&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpalaciosvx3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="400"/>
-    </td>
-  </tr>
-</table>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpalaciosvx3&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+      </td>
+    </tr>
+    <tr>
+          <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpalaciosvx3&theme=tokyonight" alt="Top Languages" width="400"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🤝 Let's Build Something Amazing
+## 🤝 Let's Build Something Solid
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <br><br>
   
-  **I'm always interested in collaborating on exciting projects!**
+  **Got a project, an idea or a backend that's giving you trouble? Let's talk!**
   
-  💼 Open to freelance opportunities | 🚀 Building scalable solutions | 💡 Sharing knowledge
+  💼 Open to new opportunities | 🚀 Building resilient platforms | 💡 Sharing knowledge
   
   <br>
   
 <a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;"/>
 </a>
-<a href="mailto:gustavo.palacios.dev@outlook.com" target="_blank" rel="noopener noreferrer">
+<a href="mailto:gustavoalonso1997@hotmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Send_me_an_Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 10px;"/>
 </a>
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=gpalaciosvx3&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gpalaciosvx3&label=Profile%20views&color=17a267&style=flat" alt="Profile views" />
   
 </div>
 
