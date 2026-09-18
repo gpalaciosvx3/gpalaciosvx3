@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gustavo+Palacios;Senior+Backend+Engineer;AWS+Certified+Developer;Serverless+%26+Cloud+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Gustavo+Palacios;Software+Engineer;3x+AWS+Certified;Cloud+Solutions+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"/>
 </a>
-<a href="mailto:gustavoalonso1997@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 5px;"/>
-</a>
 <a href="https://gustavopalacios.dev/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-%2317a267.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin: 5px;"/>
 </a>
@@ -23,6 +20,9 @@
 <div align="center">
   <a href="https://www.credly.com/badges/0d3a94c2-dec3-44b8-b633-251657307ae4" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-F9A825?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DVA" style="margin: 5px;"/>
+  </a>
+  <a href="https://www.credly.com/badges/cb43abf0-c82b-499a-8c30-7a1686170823" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAA" style="margin: 5px;"/>
   </a>
   <a href="https://www.credly.com/badges/cb024357-8447-4319-97c7-55ed0d0b057e" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CCP" style="margin: 5px;"/>
@@ -35,19 +35,19 @@
 
 <img align="right" alt="About Me" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<h3>🎯 Senior Backend Engineer | Cloud Specialist</h3>
+<h3>🎯 Software Engineer | 3x AWS Certified</h3>
 
 <p>
-Passionate about building <b>scalable</b>, <b>highly available</b>, and <b>event-driven</b> architectures. I thrive on transforming complex business challenges into resilient backend systems leveraging AWS, Infrastructure as Code (IaC), and Serverless technologies to ensure platforms scale without breaking.
+Passionate about building <b>scalable</b>, <b>highly available</b>, and <b>event-driven</b> cloud solutions. I thrive on transforming complex business challenges into resilient systems from AWS architecture and development to the infrastructure and deployment automation that keeps everything running in production.
 </p>
 
 ### 💡 What I Bring to the Table
 
+- 🏗️ **Scalable Architecture**: Expertise in Event-Driven Architecture (EventBridge, SQS, SNS) and Microservices, designed on AWS from the ground up.
+- 🛠️ **Infrastructure as Code (IaC)**: Automating reproducible and auditable deployments using AWS CDK and Terraform.
 - ☁️ **Cloud-Native & Serverless**: Designing robust infrastructure on AWS (Lambda, ECS, DynamoDB, API Gateway) optimized for speed and cost.
-- 🏗️ **Scalable Architecture**: Expertise in Event-Driven Architecture (EventBridge, SQS, SNS) and Microservices.
 - 🎯 **Best Practices Advocate**: Writing clean, maintainable code following SOLID, Clean Architecture, and Hexagonal principles.
 - ⚡ **Performance Focused**: Optimizing databases (GSI, TTL), caching strategies (Redis), and reducing latency in critical flows.
-- 🛠️ **Infrastructure as Code (IaC)**: Automating reproducible and auditable deployments using AWS CDK and Terraform.
 
 <br clear="right"/>
 
@@ -160,8 +160,8 @@ Passionate about building <b>scalable</b>, <b>highly available</b>, and <b>event
 <a href="https://www.linkedin.com/in/gustavopalaciosv" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;"/>
 </a>
-<a href="mailto:gustavoalonso1997@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Send_me_an_Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" style="margin: 10px;"/>
+<a href="https://gustavopalacios.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/View_my_Portfolio-%2317a267.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" style="margin: 10px;"/>
 </a>
   
   <br><br>
