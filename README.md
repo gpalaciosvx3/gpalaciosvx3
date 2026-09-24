@@ -56,7 +56,6 @@ from architecture and code to the infrastructure that runs them in production.
 <h3 align="left">GitHub Stats</h3>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpalaciosvx3&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gpalaciosvx3&theme=tokyonight" alt="Top Languages" width="400"/>
 
 <br>
 
